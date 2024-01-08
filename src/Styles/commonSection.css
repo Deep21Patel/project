@@ -1,0 +1,13 @@
+.Common_section {
+  background: linear-gradient(rgba(0, 0, 0, 0.562), rgba(0, 0, 0, 0.562));
+  background-size: ;
+  padding: 100px 0;
+  height: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.Common_section h1 {
+  color: #fff;
+  font-weight: 600;
+}

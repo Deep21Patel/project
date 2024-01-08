@@ -1,0 +1,15 @@
+.checkout_cart {
+  padding: 20px;
+  background-color: black;
+  color: #fff;
+  border-radius: 5px;
+}
+.checkout_cart h6,
+h4 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.checkout_cart h6 {
+  margin-bottom: 20px;
+}

@@ -1,0 +1,28 @@
+.footer {
+  padding-top: 60px;
+  padding-bottom: 30px;
+  background: rgb(47, 101, 182);
+  color: aliceblue;
+}
+.footer_text {
+  line-height: 30px;
+}
+.footer_quick-links ul li {
+  background: transparent !important;
+}
+.footer_quick-links ul li a {
+  color: aliceblue;
+}
+quick_links-title {
+  margin-bottom: 20px;
+  color: aliceblue;
+  font-size: 1.2rem;
+}
+.footer_contact li {
+  color: aliceblue;
+}
+.footer_copyright {
+  color: aliceblue;
+  font-size: 0.9rem;
+  margin-top: 40px;
+}
